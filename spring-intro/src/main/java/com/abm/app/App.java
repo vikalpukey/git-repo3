@@ -23,9 +23,15 @@ public class App {
        cc.add(10, 20);
        cc.sub(10, 20);
        
+<<<<<<< HEAD
     
+=======
+       System.out.println("done from 2nd");
+       System
+       .out.println("done from 2nd");
+>>>>>>> branch 'master' of https://github.com/vikalpukey/git-repo3.git
       
-    
+   
 	}
 
 }
