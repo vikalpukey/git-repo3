@@ -15,6 +15,8 @@ public class BankApp {
 		hd.withdraw(121, 150);
 		
 		//HelloWorld hw = (HelloWorld) ac.getBean("hello");
+		System.out.println("Done form orignal");
+		System.out.println("Done form orignal");
 	
 	}
 

@@ -22,6 +22,8 @@ public class App {
         Calculator cc = (Calculator) ac.getBean("calc");
        cc.add(10, 20);
        cc.sub(10, 20);
+       
+    
       
     
 	}
