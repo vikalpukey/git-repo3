@@ -16,7 +16,8 @@ public class BankApp {
 		
 		//HelloWorld hw = (HelloWorld) ac.getBean("hello");
 		System.out.println("Done form orignal");
-		System.out.println("Done form orignal");
+		System
+		.out.println("Done form orignal");
 	
 	}
 
